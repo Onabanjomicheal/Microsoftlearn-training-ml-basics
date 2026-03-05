@@ -2,7 +2,7 @@
 
 > 📚 Exercise notebooks for Microsoft Learn Machine Learning fundamentals modules
 
-![Language](https://img.shields.io/badge/Language-Python-blue?style=flat-square)
+![Language](https://img.shields.io/badge/Language-Jupyter Notebook-blue?style=flat-square)
 ![Stars](https://img.shields.io/github/stars/Onabanjomicheal/Microsoftlearn-training-ml-basics?style=flat-square&color=yellow)
 ![Forks](https://img.shields.io/github/forks/Onabanjomicheal/Microsoftlearn-training-ml-basics?style=flat-square&color=green)
 ![Last Commit](https://img.shields.io/github/last-commit/Onabanjomicheal/Microsoftlearn-training-ml-basics?style=flat-square)
